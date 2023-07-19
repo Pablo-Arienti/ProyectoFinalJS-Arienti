@@ -1,0 +1,67 @@
+[
+    {
+        "categoria": "Procesador",
+        "nombre": "AMD Ryzen 7",
+        "precio": 153900,
+        "codigo": 1100,
+        "enOferta": false,
+        "imagen": "https://www.amd.com/system/files/2022-12/1728141-amd-ryzen-65w-7-pib-right-1260x709.png"
+    },
+    {
+        "categoria": "Placa Madre",
+        "nombre": "Mother B660M DDR4",
+        "precio": 85990,
+        "codigo": 1101,
+        "enOferta": true,
+        "imagen": "https://static.gigabyte.com/StaticFile/Image/Global/4a4d59ed83404034feafbbf340b5c862/Product/30352/Png"
+    },
+    {
+        "categoria": "Almacenamiento",
+        "nombre": "SSD M2 500GB",
+        "precio": 24000,
+        "codigo": 1002,
+        "enOferta": true,
+        "imagen": "https://www.gigabyte.com/FileUpload/Global/KeyFeature/1963/innergigabyteimages/box.png"
+    },
+    {
+        "categoria": "Placa de video",
+        "nombre": "RTX 3080 AORUS",
+        "precio": 361000,
+        "codigo": 1103,
+        "enOferta": false,
+        "imagen": "https://dlcdnwebimgs.asus.com/gain/84ED616E-3B8A-471F-BA86-2A43B421D55D/w1000/h732"
+    },
+    {
+        "categoria": "Placa de video",
+        "nombre": "RTX 3090TI GIGABYTE",
+        "precio": 400000,
+        "codigo": 1410,
+        "enOferta": true,
+        "imagen": "https://www.atom.rs/cms/upload/png/GA3080TI.png"
+    },
+    {
+        "categoria": "Almacenamiento",
+        "nombre": "SATA SSD 120GB",
+        "precio": 12700,
+        "codigo": 1711,
+        "enOferta": false,
+        "imagen": "https://www.pngall.com/wp-content/uploads/5/SSD-PNG-Transparent-HD-Photo.png"
+    },
+    {
+        "categoria": "Memoria RAM",
+        "nombre": "RAM 16GB RGB",
+        "precio": 20000,
+        "codigo": 1116,
+        "enOferta": false,
+        "imagen": "https://www.seekpng.com/png/full/788-7888472_corsair-ddr4-vengeance-ramcorsair-vengeance-rgb-pro-ram.png"
+    },
+    {
+        "categoria": "Procesador",
+        "nombre": "Intel Core I7 10ma Generacion",
+        "precio": 188000,
+        "codigo": 1717,
+        "enOferta": true,
+        "imagen": "https://notebookspec.com/storage/pc-cpu/cpu_399_20200514-104704_Intel_Core_i7-10700K.png"
+    }
+
+]

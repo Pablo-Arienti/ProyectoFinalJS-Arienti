@@ -112,9 +112,9 @@ const mostrarProductos = () => {
                 <img lazy src="${imagen}" alt="${nombre}" class='h-[200px] w-full object-contain m-auto transition duration-150 ease-in-out hover:scale-110'>
             </div>
             <div class='pt-4'>
-                <p class='font-thin text-center text-white'>${categoria}</p>s
+                <p class='font-thin text-center text-white shadow-white'>${categoria}</p>
                 <h3 class='font-bold text-center'>${nombre}</h3>                
-                <span class= 'text-red-600 font-semibold'>$${precio}</span> 
+                <span class= 'text-red-600 font-semibold bg-zinc-800 p-1 rounded-lg'>$${precio}</span> 
             </div>
                 <button class='btnAgregarAlCarrito p-2 bg-indigo-800  hover:bg-indigo-600 text-white w-full absolute bottom-0'>Agregar al carrito</button>
             </div>
@@ -129,7 +129,7 @@ const mostrarProductos = () => {
             <div class='pt-4'>
                 <p class='font-thin text-center text-white'>${categoria}</p>
                 <h3 class='font-bold text-center'>${nombre}</h3>                
-                <span class='text-red-600 font-semibold'>$${precio}</span>
+                <span class='text-red-600 font-semibold bg-zinc-800 p-1 rounded-lg'>$${precio}</span>
             </div>
                 <button class='btnAgregarAlCarrito p-2 bg-indigo-800  hover:bg-indigo-600 text-white w-full absolute bottom-0'>Agregar al carrito</button>
             </div>
